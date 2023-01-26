@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 - 🔭 I’m currently working on a Personalized Project - First Person Shooter Game RUE : Prologue using Unreal Engine 5
 - 🌱 I’m currently learning Game Development and Data Structures and Algorithms
 - 💬 Ask me about Game Development and Design
