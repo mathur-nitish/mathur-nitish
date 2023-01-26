@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Game Development and Data Structures and Algorithms
 - 💬 Ask me about Game Development and Design
 - Play Color War Beta : 
-  https://nitish-mathur.itch.io/color-war
+  https://nitish-mathur.itch.io/color-war (In-developement)
 - Connect with me at https://www.linkedin.com/in/nitish-mathur-85228922a/
 
 <!--
