@@ -1,5 +1,5 @@
 <h1 align="center">I'm Nitish Mathur</h1>
-<h3 align="center">Co-Founder of Zetrance XR || Software Developer || ML DL || Game Developer || .NET Developer ||  Virtual Reality Developer</h3>
+<h3 align="center">Co-Founder of Zetrance XR || Software Developer || ML || Game Developer ||  Virtual Reality Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <h4 align="left">Leetcode : https://leetcode.com/u/mathur-nitish/</h4>
