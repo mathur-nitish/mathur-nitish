@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h4 align="left">Leetcode : https://leetcode.com/u/mathur-nitish/</h4>
-<h4 align="left">Hackerrank : [https://leetcode.com/u/mathur-nitish/](https://www.hackerrank.com/profile/nitishmathur2011)</h4>
+<h4 align="left">Hackerrank : https://www.hackerrank.com/profile/nitishmathur2011</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mathur-nitish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathur-nitish/" height="30" width="40" /></a>
 
